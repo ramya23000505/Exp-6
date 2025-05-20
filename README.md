@@ -31,7 +31,8 @@ vi)Sequence Diagram
 
 1. Student
 2. Admin
-3. Website
+3. Exam
+4. Exam co-ordinator
 
 # DIAGRAMS:
 ## USECASE DIAGRAM:
